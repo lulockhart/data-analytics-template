@@ -1,0 +1,20 @@
+data-analytics-template/
+│
+├── data/                              # Store datasets
+│   ├── raw/                           # Raw datasets (original data)
+│   ├── processed/                     # Processed/cleaned data
+│   └── external/                      # Data from external sources
+│
+├── notebooks/                         # Jupyter notebooks
+│   ├── exploration/                   # Exploratory notebooks
+│   └── modeling/                      # Modeling and analysis notebooks
+│
+├── scripts/                           # Reusable Python scripts
+├── references/                        # External references and docs
+├── reports/                           # Presentations or final reports
+├── README.md                          # Project overview
+├── .gitignore                         # File to ignore unwanted content
+├── requirements.txt                   # Python dependencies
+├── CHANGELOG.md                       # Log for project changes
+├── data-dictionary.md                 # Documentation of dataset structure
+└── notebooks/template-notebook.ipynb  # Template for Jupyter notebooks
