@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ## Load Data
-# Update with the path to your dataset
 data = pd.read_csv('data/raw/example_raw.csv')
 
 ## Data Overview
@@ -16,7 +15,6 @@ print(data.info())
 print(data.describe())
 
 ## Exploratory Analysis
-# Add your code for visualization or statistics here
 sns.pairplot(data)
 plt.show()
 
