@@ -5,7 +5,6 @@
 - Create exploratory analysis notebook.
 
 ## Medium Priority
-- Develop initial data models.
 - Review processed datasets for anomalies.
 
 ## Low Priority
